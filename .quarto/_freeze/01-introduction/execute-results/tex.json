@@ -1,0 +1,20 @@
+{
+  "hash": "cdca2d9600c30795de457089d095b9f5",
+  "result": {
+    "markdown": "# Introduction\n\n## Motivation\n\n\n```{=latex}\n\\pagenumbering{arabic}\n\\setcounter{page}{1}\n```\n\nAs per [@lantsoght2018], one should start very early! Here is an interesting equation:\n\n$$\nx^2\n$$ {#eq-1}\n\nAnd a nice table, as seen on @eq-1:\n\n\n::: {#tbl-planets .cell tbl-cap='Planets'}\n::: {.cell-output-display}\n\\begin{longtable}{llrrrllrrll}\n\\toprule\nmanufacturer & model & displ & year & cyl & trans & drv & cty & hwy & fl & class \\\\ \n\\midrule\naudi & a4 & 1.8 & 1999 & 4 & auto(l5) & f & 18 & 29 & p & compact \\\\ \naudi & a4 & 1.8 & 1999 & 4 & manual(m5) & f & 21 & 29 & p & compact \\\\ \naudi & a4 & 2.0 & 2008 & 4 & manual(m6) & f & 20 & 31 & p & compact \\\\ \naudi & a4 & 2.0 & 2008 & 4 & auto(av) & f & 21 & 30 & p & compact \\\\ \naudi & a4 & 2.8 & 1999 & 6 & auto(l5) & f & 16 & 26 & p & compact \\\\ \naudi & a4 & 2.8 & 1999 & 6 & manual(m5) & f & 18 & 26 & p & compact \\\\ \n\\bottomrule\n\\end{longtable}\n:::\n:::\n\n\n![A bottle](images/old-barco-de-cargas-premium-aged-xo-40-07-ltr.jpg){#fig-bottle fig-align=\"center\" width=\"100\"}\n\n@tbl-planets has nothing to do with @fig-bottle[^01-introduction-1] .\n\n[^01-introduction-1]: At least I assume so.\n",
+    "supporting": [
+      "01-introduction_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{\"knit_meta_id\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"tbl-planets\",\"tbl-planets\",\"tbl-planets\"]}},\"value\":[{\"type\":\"list\",\"attributes\":{\"names\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"name\",\"options\",\"extra_lines\"]},\"class\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"latex_dependency\"]}},\"value\":[{\"type\":\"character\",\"attributes\":{},\"value\":[\"booktabs\"]},{\"type\":\"NULL\"},{\"type\":\"NULL\"}]},{\"type\":\"list\",\"attributes\":{\"names\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"name\",\"options\",\"extra_lines\"]},\"class\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"latex_dependency\"]}},\"value\":[{\"type\":\"character\",\"attributes\":{},\"value\":[\"caption\"]},{\"type\":\"NULL\"},{\"type\":\"NULL\"}]},{\"type\":\"list\",\"attributes\":{\"names\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"name\",\"options\",\"extra_lines\"]},\"class\":{\"type\":\"character\",\"attributes\":{},\"value\":[\"latex_dependency\"]}},\"value\":[{\"type\":\"character\",\"attributes\":{},\"value\":[\"longtable\"]},{\"type\":\"NULL\"},{\"type\":\"NULL\"}]}]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

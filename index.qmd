@@ -1,0 +1,20 @@
+# License {.unnumbered .unlisted}
+
+```{=latex}
+\pagenumbering{roman}
+\thispagestyle{empty}
+```
+This work is licensed under the Creative Commons ...
+
+This is a placeholder to remind me of including/modifying in the final version:
+
+-   Cover
+-   Front page (start counting pages in Roman numbers here but do not show them in this page)
+-   [Licenses](https://creativecommons.org/licenses/#licenses) (will be this index.qmd if i can do cover and front page at once)
+-   Agradecimentos
+-   Dedicatória
+-   Statement of integrity
+-   Abstract in English with keywords
+-   Abstract in Portuguese
+
+All before the table of contents.

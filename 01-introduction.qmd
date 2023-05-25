@@ -1,0 +1,28 @@
+# Introduction
+
+## Motivation
+
+```{=latex}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+```
+As per [@lantsoght2018], one should start very early! Here is an interesting equation:
+
+$$
+x^2
+$$ {#eq-1}
+
+And a nice table, as seen on @eq-1:
+
+```{r}
+#| label: tbl-planets
+#| tbl-cap: Planets
+#| echo: false
+gt::gt(head(ggplot2::mpg))
+```
+
+![](images/IMG_1158.jpg){#fig-picture fig-align="center" width="500"}
+
+@tbl-planets has nothing to do with @fig-picture[^01-introduction-1] .
+
+[^01-introduction-1]: At least I assume so.

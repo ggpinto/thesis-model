@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "b276666c"
+  },
+  "99-references.qmd": {
+    "99-references.html": "ff0ae3f9"
+  },
+  "01-introduction.qmd": {
+    "01-introduction.html": "87add937"
+  },
+  "02-what.qmd": {
+    "02-what.html": "093a8ad4"
+  },
+  "statement_of_integrity.qmd": {
+    "statement_of_integrity.html": "f039ee4d"
+  },
+  "abstract_en.qmd": {
+    "abstract_en.html": "4e4078c1"
+  },
+  "abstract_pt.qmd": {
+    "abstract_pt.html": "c766486a"
+  },
+  "abbreviations.qmd": {
+    "abbreviations.html": "11302a61"
+  }
+}

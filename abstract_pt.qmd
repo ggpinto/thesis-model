@@ -1,0 +1,18 @@
+# Resumo alargado {.unnumbered .unlisted}
+
+Pelo menos 1200 palavras.
+
+## Conclusões {.unnumbered .unlisted}
+
+Conclusões, na sua totalidade.
+
+**Palavras-chave:**
+
+```{=latex}
+\renewcommand{\contentsname}{Table of contents}
+\tableofcontents
+\renewcommand{\listfigurename}{List of figures}
+\listoffigures
+\renewcommand{\listtablename}{List of tables}
+\listoftables
+```

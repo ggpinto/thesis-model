@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "thesis_title",
+    "section": "",
+    "text": "License\nThis work is licensed under the Creative Commons …\nThis is a placeholder to remind me of including/modifying in the final version:\n\nCover\nFront page (start counting pages in Roman numbers here but do not show them in this page)\nLicenses (will be this index.qmd if i can do cover and front page at once)\nAgradecimentos\nDedicatória\nStatement of integrity\nAbstract in English with keywords\nAbstract in Portuguese\n\nAll before the table of contents."
+  },
+  {
+    "objectID": "statement_of_integrity.html",
+    "href": "statement_of_integrity.html",
+    "title": "Statement of integrity, declaração de integridade",
+    "section": "",
+    "text": "I hereby declare having conducted my thesis with integrity. I confirm that I have not used plagiarism or any form of falsification of results in the process of the thesis elaboration. I further declare that I have fully acknowledged Disciplinary Regulations of the Universidade Aberta (regulation published in the official journal Diário da República, 2.ª série, N.º 215, de 6 de novembro de 2013).\nDeclaro ter atuado com integridade na elaboração da presente dissertação/tese. Confirmo que em todo o trabalho conducente à sua elaboração não recorri à prática de plágio ou a qualquer outra forma de falsificação de resultados. Mais declaro que tomei conhecimento integral do Regulamento Disciplinar da Universidade Aberta, publicado no Diário da República, 2.ª série, n.º 215, de 6 de novembro de 2013.\nUniversidade Aberta, DD de MMMM de YYYY.\nFull name, nome completo:"
+  },
+  {
+    "objectID": "abstract_en.html",
+    "href": "abstract_en.html",
+    "title": "Abstract",
+    "section": "",
+    "text": "Keywords:"
+  },
+  {
+    "objectID": "abstract_pt.html#conclusoes",
+    "href": "abstract_pt.html#conclusoes",
+    "title": "Resumo alargado",
+    "section": "Conclusões",
+    "text": "Conclusões\nConclusões, na sua totalidade.\nPalavras-chave:"
+  },
+  {
+    "objectID": "01-introduction.html#motivation",
+    "href": "01-introduction.html#motivation",
+    "title": "1  Introduction",
+    "section": "1.1 Motivation",
+    "text": "1.1 Motivation\nAs per (Lantsoght 2018), one should start very early! Here is an interesting equation:\n\\[\nx^2\n\\tag{1.1}\\]\nAnd a nice table, as seen on Equation 1.1:\n\n\n\n\n\n\nTable 1.1:  Planets \n  \n    \n    \n      manufacturer\n      model\n      displ\n      year\n      cyl\n      trans\n      drv\n      cty\n      hwy\n      fl\n      class\n    \n  \n  \n    audi\na4\n1.8\n1999\n4\nauto(l5)\nf\n18\n29\np\ncompact\n    audi\na4\n1.8\n1999\n4\nmanual(m5)\nf\n21\n29\np\ncompact\n    audi\na4\n2.0\n2008\n4\nmanual(m6)\nf\n20\n31\np\ncompact\n    audi\na4\n2.0\n2008\n4\nauto(av)\nf\n21\n30\np\ncompact\n    audi\na4\n2.8\n1999\n6\nauto(l5)\nf\n16\n26\np\ncompact\n    audi\na4\n2.8\n1999\n6\nmanual(m5)\nf\n18\n26\np\ncompact\n  \n  \n  \n\n\n\n\n\n\n\n\nFigure 1.1: A bottle\n\n\nTable 1.1 has nothing to do with Figure 1.11 .\n\n\n\n\nLantsoght, Eva O. L. 2018. The A-Z of the PhD Trajectory. Springer Texts in Education. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-77425-1."
+  },
+  {
+    "objectID": "99-references.html",
+    "href": "99-references.html",
+    "title": "References",
+    "section": "",
+    "text": "Lantsoght, Eva O. L. 2018. The A-Z of the PhD Trajectory.\nSpringer Texts in Education. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-77425-1."
+  }
+]

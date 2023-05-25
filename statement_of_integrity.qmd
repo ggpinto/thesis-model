@@ -1,0 +1,20 @@
+# Statement of integrity, declaração de integridade {.unnumbered .unlisted}
+
+I hereby declare having conducted my thesis with integrity. I confirm that I have not used plagiarism or any form of falsification of results in the process of the thesis elaboration. I further declare that I have fully acknowledged Disciplinary Regulations of the Universidade Aberta (regulation published in the official journal Diário da República, 2.ª série, N.º 215, de 6 de novembro de 2013).
+
+Declaro ter atuado com integridade na elaboração da presente dissertação/tese. Confirmo que em todo o trabalho conducente à sua elaboração não recorri à prática de plágio ou a qualquer outra forma de falsificação de resultados. Mais declaro que tomei conhecimento integral do Regulamento Disciplinar da Universidade Aberta, publicado no Diário da República, 2.ª série, n.º 215, de 6 de novembro de 2013.
+
+Universidade Aberta, DD de MMMM de YYYY.
+
+Full name, nome completo:
+```{=latex}
+\vspace{10mm}
+\begin{center}
+\begin{tabular}{ll}
+\makebox[75mm]{\hrulefill}\\
+Signature, assinatura\\
+\end{tabular}
+\end{center}
+```
+
+

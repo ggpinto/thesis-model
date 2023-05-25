@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: thesis_title
+  subtitle: Do not care about formatting yet!
+  author: thesis_author
+  date: thesis_date
+  chapters:
+    - index.qmd
+    - statement_of_integrity.qmd
+    - abstract_en.qmd
+    - abstract_pt.qmd
+    - abbreviations.qmd
+    - 01-introduction.qmd
+    - 99-references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    toc: false
+    colorlinks: false
+
+
+
