@@ -12,8 +12,8 @@ book:
     - abstract_en.qmd
     - abstract_pt.qmd
     - abbreviations.qmd
-    - 01-introduction.qmd
-    - 99-references.qmd
+    - introduction.qmd
+    - references.qmd
 
 bibliography: references.bib
 
