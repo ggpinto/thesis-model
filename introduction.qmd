@@ -21,8 +21,8 @@ And a nice table, as seen on @eq-1:
 gt::gt(head(ggplot2::mpg))
 ```
 
-![](images/IMG_1158.jpg){#fig-flowes fig-align="center" width="500"}
+![Some nice flowers](images/IMG_1158.jpg){#fig-flowers fig-align="center" width="200"}
 
-@tbl-planets has nothing to do with it[^introduction-1] .
+@tbl-planets has nothing to do with [^introduction-1] @fig-flowers.
 
 [^introduction-1]: At least I assume so.
